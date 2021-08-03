@@ -1,0 +1,54 @@
+*{margin:auto; padding: 0; box-sizing: border-box; }
+
+.page {
+    width: 800px;
+    height: auto;
+    border-style: groove;
+    background-color: rgb(26, 179, 240);
+}
+.page .home h1{
+    width: 368px;
+    height: 55px;
+    border-style: groove;
+    margin: auto;
+    border-radius: 19px;
+    margin-top: 10px;
+    border: 2px solid;
+}
+.page .box{
+    width: 122px;
+    height: 68px;
+    border-style: groove;
+    background-image: url('flag.jpg');
+}
+.page .box2{
+    width: 484px;
+    height: 633px;
+    border-style: groove;
+    background-image: url('images.jpeg');
+    margin-top: 10px;
+}
+.page2 {
+    width: 865px;
+    height: auto;
+    border-style: groove;
+    background-color:  rgb(26, 179, 240);
+}
+.page2 .box3{
+    width: 224px;
+    height: 209px;
+    border-style: groove;
+    background-image: url('logo3.jpg');
+    margin-top: 10px;
+    border-radius: 103px;
+    border: 2px solid;
+}
+.page2 .box4{
+    width: 637px;
+    height: 421px;
+    border-style: groove;
+    background-image: url(GIF-sir.gif);
+    margin-top: 10px;
+    border-radius: 42px;
+    border: 2px solid;
+}
